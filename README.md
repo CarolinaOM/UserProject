@@ -1,6 +1,6 @@
 # UserProject  
   
-Aqui esta el proyecto el cual lo puedes ver de la sogueinte manera  
+Aqui esta el proyecto el cual lo puedes ver de la sigueinte manera  
   
   1. El archivo **db.txt** es el txt que me mandaste para poder realizar el proyecto  
   2. En la carpeta **src** estan todos los codigos .java  
